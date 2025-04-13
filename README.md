@@ -1,1 +1,3 @@
-# fullstack_project
+# fullstack_projec
+topic=Waste Management and recycling portal
+
